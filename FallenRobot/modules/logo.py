@@ -288,19 +288,19 @@ async def lego(event):
         fname = "fallen.png"
         img.save(fname, "png")
         await telethn.send_file(
-            event.chat_id, file=fname, caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ zᴇɴ ✘ ʀᴏʙᴏᴛ\nRequested By:- [{event.sender.first_name}](tg://user?id={event.sender.id})\nCreated By: [『 𝙕𝙀𝙉 ✘ 𝙍𝙊𝘽𝙊𝙏 』](https://t.me/ZenXrobot)"
+            event.chat_id, file=fname, caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ αlíα\nRequested By:- [{event.sender.first_name}](tg://user?id={event.sender.id})\nCreated By: [ αlíα ](https://t.me/Aliaqueen_bot)"
         )
         await pesan.delete()
         if os.path.exists(fname):
             os.remove(fname)
     except Exception as e:
-        await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @zensupport")
+        await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @botsupportastra")
 
 
 __mod_name__ = "Lᴏɢᴏ​"
 
 __help__ = """
-Zen Robot can create some beautiful and attractive logo for your profile pics.
+Alia bot can create some beautiful and attractive logo for your profile pics.
 
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
 """
