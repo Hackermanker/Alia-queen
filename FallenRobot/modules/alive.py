@@ -22,7 +22,7 @@ SHREYXD = [
     ],
     [
         InlineKeyboardButton(
-            text="𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌",
+            text="𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗎𝗋 𝗀𝗋𝗈𝗎𝗉",
             url=f"https://t.me/Aliaqueen_bot?startgroup=true",
         ),
     ],
