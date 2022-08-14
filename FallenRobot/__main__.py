@@ -91,7 +91,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text=" ᴀᴅᴅ ᴍᴇ ​ᴇʟsᴇ ʏᴏᴜ ɢᴀʏ",
+            text=" 𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌 ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -411,7 +411,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/zen_updates"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/ASTRA_FED"
                         ),
                     ],
                     [
