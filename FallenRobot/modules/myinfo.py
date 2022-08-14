@@ -17,11 +17,11 @@ from FallenRobot import dispatcher
 
 edit_time = 5
 """ =======================ALIA BOT====================== """
-file1 = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
-file2 = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
-file3 = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
-file4 = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
-file5 = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
+file1 = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
+file2 = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
+file3 = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
+file4 = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
+file5 = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
 """ =======================ALIA BOT====================== """
 
 
