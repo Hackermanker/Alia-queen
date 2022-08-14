@@ -416,7 +416,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/pythonxgamer"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Oriksonic"
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ", url="https://github.com/Adityakjha1"
