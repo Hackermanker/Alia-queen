@@ -30,8 +30,8 @@ async def repo(client, message):
                     InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/Oriksonic"
                     ),
                     InlineKeyboardButton(
-                        "•💚sᴜᴘᴘᴏʀᴛ💚•",
-                        url="https://t.me/zensupport"
+                        "•𝗌𝗎𝗉𝗉𝗈𝗋𝗍•",
+                        url="https://t.me/botsupportastra"
                     ),
                 ],
                 [
