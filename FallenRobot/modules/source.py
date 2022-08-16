@@ -7,7 +7,7 @@ from pyrogram import filters
 from FallenRobot import pbot as client
 
 
-ANON = "https://telegra.ph/file/90552395a5e96d0e7fab9.jpg"
+ANON = "https://telegra.ph/file/fc41fe013de74a1648669.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -35,7 +35,7 @@ async def repo(client, message):
                     ),
                 ],
                 [
-                    InlineKeyboardButton("• ➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ➕ •", url="https://t.me/ZenXrobot?startgroup=true"),     
+                    InlineKeyboardButton("• ➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ ➕ •", url="https://t.me/Aliaqueen_bot?startgroup=true"),     
                 ],
             ]
         ),
