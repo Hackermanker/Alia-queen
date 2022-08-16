@@ -12,7 +12,7 @@ from FallenRobot import LOGGER, TEMP_DOWNLOAD_DIRECTORY
 from FallenRobot import telethn as bot
 
 
-Credit = "AnonymousBoy1025"
+Credit = "Rogue"
 
 
 @register(pattern="^/mmf ?(.*)")
