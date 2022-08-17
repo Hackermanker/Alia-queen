@@ -135,7 +135,7 @@ async def job_open():
         try:
             await tbot.send_message(
                 int(warner.chat_id),
-                "06:00 Am, Group Is Opening.\n**Powered By Zen Robot**",
+                "06:00 Am, Group Is Opening.\n**Powered By Alia**",
             )
             await tbot(
                 functions.messages.EditChatDefaultBannedRightsRequest(
