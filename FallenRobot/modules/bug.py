@@ -47,7 +47,7 @@ async def bug(_, msg: Message):
     datetimes_fmt = "%d-%m-%Y"
     datetimes = datetime.utcnow().strftime(datetimes_fmt)
 
-    thumb = "https://te.legra.ph/file/49b0000f95b740904aeaa.jpg"
+    thumb = "https://telegra.ph/file/144f71e243b0383e74969.jpg"
 
     bug_report = f"""
 **#ʙᴜɢ : ** **@{owner_usn}**
@@ -121,7 +121,7 @@ async def close_send_photo(_, CallbackQuery):
 
 
 __help__ = """
-*ғᴏʀ ʀᴇᴩᴏʀᴛɪɴɢ ᴀ ʙᴜɢ ɪɴ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ*
+*ғᴏʀ ʀᴇᴩᴏʀᴛɪɴɢ ᴀ ʙᴜɢ ɪɴ 𝐚𝐥𝐢𝐚 ʙᴏᴛ*
  ❍ /bug *:* ᴛᴏ ʀᴇᴩᴏʀᴛ ᴀ ʙᴜɢ ᴀᴛ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ.
 """
 __mod_name__ = "Bᴜɢ"
