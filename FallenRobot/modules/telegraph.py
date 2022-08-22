@@ -78,7 +78,7 @@ async def _(event):
                 link_preview=True,
             )
     else:
-        await event.reply("Reply to a message to get a permanent te.legra.ph link.")
+        await event.reply("Reply to a message to get permanent te.legra.ph link.")
 
 
 def resize_image(image):
