@@ -77,21 +77,21 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʏ[,](https://telegra.ph/file/fc41fe013de74a1648669.jpg)
-✪ ᴛʜɪs ɪs {} !
-✪ ᴍᴏᴅᴜʟᴀʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ
+ʜᴇʏʏᴀ[,](https://telegra.ph/file/fc41fe013de74a1648669.jpg)
+✪ ɪᴛꜱ ᴍᴇ {} !
+✪ ᴄᴏᴍᴘᴀᴛɪᴠᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ
 ────────────────────────
-𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝗐𝗂𝗍𝗁 𝗆𝗈𝗋𝖾 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌 𝗅𝗂𝗄𝖾
-✪ 𝘕𝘚𝘍𝘞 𝘮𝘰𝘥𝘦
-✪ 𝘕𝘪𝘨𝘩𝘵 𝘮𝘰𝘥𝘦
-𝖠𝗇𝖽 𝗌𝗈𝗆𝖾 𝗈𝗍𝗁𝖾𝗋 𝖼𝗈𝗈𝗅 𝖿𝗎𝗇 𝖾𝗑𝗍𝗋𝖺𝗌
+ᴡɪᴛʜ ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ꜱᴜᴄʜ ᴀꜱ
+✪ ᴀɴᴛɪ-ɴꜱꜰᴡ ᴍᴏᴅᴇ
+✪ ɴɪɢʜᴛ ᴍᴏᴅᴇ
+ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ ᴄᴏᴏʟ ꜰᴜɴ ᴇxᴛʀᴀꜱ
 ✪ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
 ​"""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text=" 𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌 ",
+            text=" ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -501,7 +501,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴩᴇɴ ʜᴇʀᴇ",
+                            text="ᴏᴘᴇɴ ʜᴇʀᴇ",
                             callback_data="help_back",
                         )
                     ],
