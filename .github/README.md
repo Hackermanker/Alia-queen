@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 zᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 ᴀʟɪᴀ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/90552395a5e96d0e7fab9.jpg">
+  <img src="https://te.legra.ph/file/12f5e80f183a5060fb638.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴢᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/zenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https://t.me/Aliaqueen_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -41,11 +41,11 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴢᴇɴ ✘ ʀᴏ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 SUPPORT CHAT 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/zensupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/botsupportastra"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/pythonxgamer"><img src="https://img.shields.io/badge/%20Aditya-blue.svg?style=for-the-badge&logo=Telegram"></a>
