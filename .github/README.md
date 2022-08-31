@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https:/
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/90552395a5e96d0e7fab9.jpg">
+  <img src="https://te.legra.ph/file/12f5e80f183a5060fb638.jpg.jpg">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https:/
 <a href="https://telegram.me/botsupportastra"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/pythonxgamer"><img src="https://img.shields.io/badge/%20Aditya-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Oriksonic"><img src="https://img.shields.io/badge/%20Aditya-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
