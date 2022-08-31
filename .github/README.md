@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https:/
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/12f5e80f183a5060fb638.jpg.jpg">
+  <img src="https://te.legra.ph/file/12f5e80f183a5060fb638.jpg">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https:/
 <a href="https://telegram.me/botsupportastra"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Oriksonic"><img src="https://img.shields.io/badge/%20Aditya-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Oriksonic"><img src="https://img.shields.io/badge/%20ROGUE-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -56,4 +56,4 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟɪᴀ](https:/
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [ғᴀʟʟᴇɴ](https://github.com/AnonymousR1025/FallenRobot) </b>
+- <b>[ROGUE](https://github.com/hackermanker)  ➻  [ALIA](https://t.me/Aliaqueen_bot) </b>
