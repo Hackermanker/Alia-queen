@@ -84,27 +84,27 @@ PM_START_TEXT = """
 ▪️ᴀɴᴛɪ-ɴꜱꜰᴡ ᴍᴏᴅᴇ
 ▪️ɴɪɢʜᴛ ᴍᴏᴅᴇ
 ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ ᴄᴏᴏʟ ꜰᴜɴ ᴇxᴛʀᴀꜱ
-▪️ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
+▪️ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴏʀ ᴛᴇxᴛ /help ꜰᴏʀ ᴄᴍᴅꜱ ʜᴇʟᴘ.
 ​"""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text=" ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ",
+            text=" 🏷️ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ🏷️ ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text=" ʜᴇʟᴘ & ᴄᴍᴅs​​​", callback_data="help_back"),
+        InlineKeyboardButton(text=" 📚ʜᴇʟᴘ & ᴄᴍᴅs​​​", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text=" ᴀʙᴏᴜᴛ ᴍᴇ​​ ", callback_data="fallen_"),
+        InlineKeyboardButton(text=" 🌟ᴀʙᴏᴜᴛ ᴍᴇ​​ ", callback_data="fallen_"),
       
   
     
  
         InlineKeyboardButton(
-            text=" ᴅᴇᴠᴇʟᴏᴘᴇʀ ", url=f"https://t.me/{OWNER_USERNAME}"
+            text=" ᴜᴘᴅᴀᴛᴇꜱ ", url=f"https://t.me/botupdatesastra"
         ),
     ],
 ]
