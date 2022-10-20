@@ -104,7 +104,7 @@ buttons = [
     
  
         InlineKeyboardButton(
-            text=" ᴜᴘᴅᴀᴛᴇꜱ ", url=f"https://t.me/botupdatesastra"
+            text=" ᴜᴘᴅᴀᴛᴇꜱ ", url=f"https://t.me/ASTRA_Botz"
         ),
     ],
 ]
@@ -410,7 +410,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/ASTRA_FED"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/ASTRA_Botz"
                         ),
                     ],
                     [
