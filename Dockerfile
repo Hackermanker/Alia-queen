@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/FallenRobot
-RUN git clone -b shiken https://github.com/Hackermanker/Alia-queen /root/Alia-queen
+RUN git clone -b shiken https://github.com/Hackermanker/Alia-queen /root/FallenRobot
 WORKDIR /root/FallenRobot
 
 #Copy config file to /root/FallenRobot/FallenRobot
