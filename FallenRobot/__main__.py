@@ -746,8 +746,8 @@ def main():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                "https://telegra.ph/file/fc41fe013de74a1648669.jpg",
-                caption="αlíα ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ rσguє",
+                "https://telegra.ph/file/c7bcf4ce33b5d79dafec0.jpg",
+                caption="I am Alive!\n\nPinged",
             )
         except Unauthorized:
             LOGGER.warning(
