@@ -1,5 +1,5 @@
 {
-      "name": "Zen Robot",
+      "name": "Alia",
       "description": "Telegram Group Management Bot.",
       "logo": "https://telegra.ph/file/71ec588930484bb019a3a.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/Adityakjha1/zentry",
+   "repository": "https://github.com/Hackermanker/Alia-queen",
    "addons": [
       {
          "options": {
@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5374329015"
+         "value": ""
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "pythonxgamer"
+         "value": "Oriksonic"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "zensupport"
+         "value": "botsupportastra"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -69,22 +69,22 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001689952468"
+         "value": ""
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001689952468"
+         "value": ""
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": "D0ZCZ67KL8OTL0PY"
+         "value": ""
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": "5LB4TAKPEKZ0"
+         "value": ""
       },
       "API_OPENWEATHER": {
         "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
@@ -94,7 +94,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5374329015"
+         "value": ""
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -108,22 +108,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5374329015"
+         "value": ""
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5374329015"
+         "value": ""
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "5374329015"
+         "value": ""
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5374329015"
+         "value": ""
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -161,7 +161,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/pythonxgamer"
+         "value": "https://t.me/Oriksonic"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
