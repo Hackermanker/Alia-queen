@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  saitama-shiken:
+    build: .
+    image: saitama-shiken
+    container_name: saitama-shiken
+    networks:
+      - bot
+    env_file:
+      - stack.env
+
+networks:
+  bot:
+    name: saitama-shiken
