@@ -10,4 +10,4 @@ RUN pip3 install -r requirements.txt
 
 COPY . .
 
-CMD [ "python3", "-m" , "SaitamaRobot"]
+CMD [ "python3", "-m" , "FallenRobot"]
