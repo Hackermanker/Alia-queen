@@ -1,10 +1,10 @@
 version: "3.9"
 
 services:
-  saitama-shiken:
+  alia-queen:
     build: .
-    image: saitama-shiken
-    container_name: saitama-shiken
+    image: alia-queen
+    container_name: alia-queen
     networks:
       - bot
     env_file:
@@ -12,4 +12,4 @@ services:
 
 networks:
   bot:
-    name: saitama-shiken
+    name: alia-queen
