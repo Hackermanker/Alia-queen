@@ -7,9 +7,12 @@ services:
     container_name: alia-queen
     networks:
       - bot
+      - databases
     env_file:
       - stack.env
 
 networks:
   bot:
     name: alia-queen
+  databases:
+    external: true
