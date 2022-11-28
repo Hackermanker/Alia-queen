@@ -58,8 +58,8 @@ def kukirm(update: Update, context: CallbackContext) -> str:
             )
 
     return ""
-    
-    
+
+
 @run_async
 @user_admin_no_reply
 @gloggable
@@ -87,8 +87,8 @@ def kukiadd(update: Update, context: CallbackContext) -> str:
             )
 
     return ""
-    
-    
+
+
 @run_async
 @user_admin
 @gloggable
@@ -120,8 +120,8 @@ def kuki_message(context: CallbackContext, message):
             return True
     else:
         return False
-        
-        
+
+
 def chatbot(update: Update, context: CallbackContext):
     message = update.effective_message
     chat_id = update.effective_chat.id
@@ -141,8 +141,8 @@ def chatbot(update: Update, context: CallbackContext):
         result = results['responses']
         sleep(0.7)
         message.reply_text(result[0])
-        
-        
+
+
 __help__ = """
 *Admins only Commands*:
 
@@ -172,6 +172,3 @@ __handlers__ = [
     RM_CHAT_HANDLER,
     CHATBOT_HANDLER,
 ]
-    
-    
-    
