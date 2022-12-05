@@ -3,7 +3,7 @@ version: "3.9"
 services:
   alia-queen:
     build: .
-    image: alia-queen
+    image: alia-queen:${TAG}
     container_name: alia-queen
     networks:
       - bot
