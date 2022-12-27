@@ -2,7 +2,7 @@ from typing import Optional
 
 import FallenRobot.modules.sql.rules_sql as sql
 from FallenRobot import dispatcher
-from FallemRobot.modules.helper_funcs.chat_status import user_admin
+from FallenRobot.modules.helper_funcs.chat_status import user_admin
 from FallenRobot.modules.helper_funcs.string_handling import markdown_parser
 from telegram import (
     InlineKeyboardButton,
