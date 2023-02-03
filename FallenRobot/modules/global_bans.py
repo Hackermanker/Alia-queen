@@ -23,7 +23,6 @@ from FallenRobot import (
     STRICT_GBAN,
     DRAGONS,
     SUPPORT_CHAT,
-    SPAMWATCH_SUPPORT_CHAT,
     DEMONS,
     TIGERS,
     WOLVES,
