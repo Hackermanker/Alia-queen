@@ -26,8 +26,7 @@ Successfully Written Text
 
 
 __help__ = """
- Writes the given text on white page with a pen 🖊
-
+ Writes the given text on white page like a pen 🖊
 ❍ /write <text> *:* Writes the given text.
 """
 
