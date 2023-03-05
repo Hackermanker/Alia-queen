@@ -22,7 +22,7 @@ def handwrite(update: Update, context: CallbackContext):
 Successfully Written Text
 
  **Written By :** [{BOT_NAME}](https://t.me/{BOT_USERNAME})
- **Requested by :** {update.effective_user.first_name}
+ **Requested by :** {update.effective_user.first_name}."""
 
 
 __help__ = """
