@@ -21,13 +21,13 @@ def handwrite(update: Update, context: CallbackContext):
         caption=f"""
 Successfully Written Text
 
-▪️ **Written By :** [{BOT_NAME}](https://t.me/{BOT_USERNAME})
- ▪️**Requested by :** {update.effective_user.first_name}
+ **Written By :** [{BOT_NAME}](https://t.me/{BOT_USERNAME})
+ **Requested by :** {update.effective_user.first_name}
 
 
 __help__ = """
  Writes the given text on white page like a pen
-🎇/write <text> *:* Writes the given text.
+/write <text> *:* Writes the given text.
 """
 
 WRITE_HANDLER = DisableAbleCommandHandler("write", handwrite)
