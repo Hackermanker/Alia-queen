@@ -90,21 +90,21 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text=" 🏷️ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ🏷️ ",
+            text=" Add me to ur chats➕ ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text=" 📚ʜᴇʟᴘ & ᴄᴍᴅs​​​", callback_data="help_back"),
+        InlineKeyboardButton(text=" Help 🛰️ ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text=" 🌟ᴀʙᴏᴜᴛ ᴍᴇ​​ ", callback_data="fallen_"),
+        InlineKeyboardButton(text=" About 📝 ", callback_data="fallen_"),
       
   
     
  
         InlineKeyboardButton(
-            text=" ᴜᴘᴅᴀᴛᴇꜱ ", url=f"https://t.me/ASTRA_Botz"
+            text=" Updates 📊 ", url=f"https://t.me/ASTRA_Botz"
         ),
     ],
 ]
@@ -377,15 +377,15 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="fallen_support"
+                            text="Support", callback_data="fallen_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
+                            text="Commands", callback_data="help_back"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"
+                            text="Developer", url=f"https://t.me/{OWNER_USERNAME}"
                         ),
                        
                        
@@ -407,18 +407,18 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="Support chat", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/ASTRA_Botz"
+                            text="Updates", url=f"https://t.me/ASTRA_Botz"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Oriksonic"
+                            text="Developer", url="https://t.me/Oriksonic"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="https://github.com/Hackermanker"
+                            text="Github", url="https://github.com/Hackermanker"
                         ),
                     ],
                     [
@@ -476,7 +476,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="ʜᴇʟᴘ​",
+                                text="Help​",
                                 url="t.me/{}?start=ghelp_{}".format(
                                     context.bot.username, module
                                 ),
@@ -492,7 +492,7 @@ def get_help(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴩᴇɴ ɪɴ ᴩʀɪᴠᴀᴛᴇ",
+                            text="Pm for help",
                             url="https://t.me/{}?start=help".format(
                                 context.bot.username
                             ),
@@ -500,7 +500,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴘᴇɴ ʜᴇʀᴇ",
+                            text="Open here",
                             callback_data="help_back",
                         )
                     ],
@@ -670,7 +670,7 @@ def get_settings(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="sᴇᴛᴛɪɴɢs​",
+                                text="Settings",
                                 url="t.me/{}?start=stngs_{}".format(
                                     context.bot.username, chat.id
                                 ),
