@@ -121,7 +121,7 @@ def warn(
             [
                 [
                     InlineKeyboardButton(
-                        "✗ ʀᴇᴍᴏᴠᴇ ᴡᴀʀɴ ​✗", callback_data="rm_warn({})".format(user.id)
+                        " Remove warns ", callback_data="rm_warn({})".format(user.id)
                     )
                 ]
             ]
