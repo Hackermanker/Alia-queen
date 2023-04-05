@@ -44,7 +44,7 @@ async def handler(event):
         pass
 
     else:
-        await event.reply("This nigga removed credit line from code")
+        await event.reply("Oh the shit! Nigga")
 
     text = str(event.pattern_match.group(1)).strip()
 
