@@ -90,7 +90,7 @@ And many more advanced features
 buttons = [
     [
         InlineKeyboardButton(
-            text=" Add me to ur chats➕ ",
+            text=" Add me to your chats➕ ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
