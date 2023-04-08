@@ -78,13 +78,13 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hey👋 [,]
-▪️It's me {} !
-▪️One of the best anime-themed telegram group manager bot
+• It's me {} !
+• One of the best anime-themed telegram group manager bot
 With many useful features and fun extras!
-▪️Anti-spam mode using spam-watch api
-▪️Admin tools,chatbots,kang sticks etc;
+• Anti-spam mode using spam-watch api
+• Admin tools,chatbots,kang sticks etc;
 And many more advanced features
-▪️ Click on the Help button or hit /help for commands!.
+• Click on the Help button or hit /help for commands!.
 ​"""
 
 buttons = [
@@ -95,7 +95,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text=" Help 🛰️ ", callback_data="help_back"),
+        InlineKeyboardButton(text=" Help ⚙️ ", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(text=" About 📝 ", callback_data="fallen_"),
