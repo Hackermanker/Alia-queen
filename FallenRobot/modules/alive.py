@@ -17,12 +17,12 @@ PHOTO = [
 
 SHREYXD = [
     [
-        InlineKeyboardButton(text="𝗈𝗐𝗇𝖾𝗋", url=f"https://t.me/Oriksonic"),
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="Owner", url=f"https://t.me/Oriksonic"),
+        InlineKeyboardButton(text="Support", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
-            text="𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗎𝗋 𝗀𝗋𝗈𝗎𝗉",
+            text="𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 you𝗋 𝗀𝗋𝗈𝗎𝗉",
             url=f"https://t.me/Aliaqueen_bot?startgroup=true",
         ),
     ],
@@ -36,13 +36,13 @@ async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
     await asyncio.sleep(2)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
+    await accha.edit("Ding dong..")
     await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ......")
+    await accha.edit("Ding dong......")
     await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
+    await accha.edit("Ding dong..")
     await asyncio.sleep(0.5)
-    await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ......")
+    await accha.edit("Ding dong......")
     await accha.delete()
     await asyncio.sleep(0.5)
     umm = await m.reply_sticker(
@@ -54,15 +54,15 @@ async def restart(client, m: Message):
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 𝖠𝖫𝖨𝖠**
    ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [𝖱𝖮𝖦𝖴𝖤](https://t.me/{OWNER_USERNAME})
+  » **Developer :** [𝖱𝖮𝖦𝖴𝖤](https://t.me/{OWNER_USERNAME})
   
-  » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
+  » **Library :** `{lver}`
   
-  » **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
+  » **Telethon version :** `{tver}`
   
-  » **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
+  » **Pyrogram version :** `{pver}`
   
-  » **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{pyver()}`
+  » **Python version :** `{pyver()}`
    ━━━━━━━━━━━━━━━━━━━""",
         reply_markup=InlineKeyboardMarkup(SHREYXD),
     )
