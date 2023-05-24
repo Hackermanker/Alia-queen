@@ -82,7 +82,7 @@ Hey👋 {}
 With many useful features and fun extras!
 • Anti-spam mode using spam-watch api
 • Admin tools,chatbots,kang sticks etc;
-And many more advanced extras
+And many more advanced [Extras](https://t.me/botsupportastra/7353),
 • Tap on the Help button or hit /help for commands!.
 ​"""
 
