@@ -29,7 +29,7 @@ nltk
 opencv-python-headless==4.7.0.72
 pillow==9.4.0
 pretty_errors==1.2.25
-psutil==5.9.4
+psutil==5.9.5
 psycopg2-binary==2.9.5
 pydictionary==2.0.1
 pytz
